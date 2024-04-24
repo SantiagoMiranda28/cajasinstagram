@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    background-color: blanchedalmond;
+}
+
+.caja1 {
+    background-color: rgb(255, 10, 132);
+    
+}
+
+.caja2 {
+    background-color: blue;
+    
+}
+
+.caja3 { 
+    background-color: blueviolet;
+    
+    }
+
+.caja4 {
+    background-color: rgb(71, 252, 0);
+    
+    }
+
+.caja5 {
+    background-color: rgb(112, 56, 23);
+    
+}
+
+.caja6 { 
+    background-color: rgb(177, 17, 17);
+    
+}
+
+.caja7 {
+    background-color: aqua;
+    
+}
+
+.caja8 {
+    background-color: blue;
+    
+}
+
+.caja9 { 
+    background-color: blueviolet;
+    
+}
+
+.caja10 {
+    background-color: rgb(71, 252, 0);
+    
+    
+}
+
+.caja11 {
+    background-color: rgb(112, 56, 23);
+    height: ;
+    
+}
+
+.caja12 { 
+    background-color: rgb(230, 222, 222);
+    
+}
+
+.caja13 {
+    background-color: aqua;
+    
+}
+
+.caja14 {
+    background-color: blue;
+    
+}
+
+.caja15 { 
+    background-color: blueviolet;
+    
+}
+
+.caja16 {
+    background-color: rgb(71, 252, 0);
+    
+}
+
+.caja17 {
+    background-color: rgb(112, 56, 23);
+    
+}
+
+h2{
+    color: rgb(218, 141, 27);
+}
+
+.cajavacia {
+    background-color: brown;
+    height: 300px;
+}
+
+.cajaimagen {
+    background-color: blueviolet;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.circulito {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 100%;
+}
